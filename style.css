@@ -91,7 +91,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  top: -100%;
+  top: -110%;
   animation: loading 1.5s ease-in-out;
 }
 
@@ -105,7 +105,7 @@ nav {
   100% {
     border-radius: 0px 0px 1000px 1000px;
     opacity: 0.7;
-    top: -100%;
+    top: -110%;
   }
 }
 
